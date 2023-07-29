@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div id="colorlib-main">
+<<div id="colorlib-main">
     <div class="colorlib-work">
         <div class="colorlib-narrow-content">
             <div class="row">

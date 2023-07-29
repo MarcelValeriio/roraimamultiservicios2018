@@ -92,7 +92,7 @@
         <div class="text-center">@include('components.messages')</div>
     </div>
 
-    <div id="map"></div>	
+    <!--<div id="map"></div>-->	
     @include('layouts._partials.presupuesta')
 </div>
 </div>

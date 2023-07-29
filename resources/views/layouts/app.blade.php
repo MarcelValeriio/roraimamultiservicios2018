@@ -20,7 +20,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
@@ -42,12 +42,6 @@
 	<!-- Theme style  -->
 	{!! Html::style ('assets/css/style.css') !!}
 
-	<!-- Modernizr JS -->
-	
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
 
 	</head>
 	<body>
@@ -60,14 +54,14 @@
 					<li class="colorlib-active"><a href="{{route ('roraima.index')}}">Home</a></li>
 					<li><a href="{{route ('roraima.works')}}">Proyectos</a></li>
 					<li><a href="{{route ('roraima.about')}}">Sobre Nosotros</a></li>
-					<li><a href="services.html">Services</a></li>
+					<li><a href="#">Services</a></li>
 					<li><a href="{{route ('roraima.contact')}}">Contacto</a></li>
 				</ul>
 			</nav>
 
 			<div class="colorlib-footer">
-				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made by <a href="https://colorlib.com" target="_blank">Digital Studio MY</a> 
+				<p><small>&copy;
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made by <br> <a href="https://colorlib.com" target="_blank">Digital Studio MY</a> 
                 </p>
                 <ul>
 					<li><a href="https://api.whatsapp.com/send?phone=+5804141387830&text=Buenas,%20necesito%20una%20cotizaci%C3%B3n%20para%20una%20remodelaci%C3%B3n." target="_blank"><i class="icon-whatsapp"></i></a></li>
