@@ -85,11 +85,24 @@
                                 </div>
                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                     <div class="panel-body">
-                                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                                            <ul>
-                                                <li>Separated they live in Bookmarksgrove right</li>
-                                                <li>Separated they live in Bookmarksgrove right</li>
-                                            </ul>
+                                        <p>En <strong>Roraima Multiservicios 2018</strong>, estamos comprometidos con la excelencia en cada aspecto de nuestro trabajo. Si buscas un socio confiable, profesional y enfocado en el éxito de tu proyecto, no dudes en contactarnos. Estamos listos para hacer realidad tus ideas y transformarlas en proyectos exitosos y duraderos.</p>
+                                        <div class="row">  
+                                            <div class="col-md-6">
+                                                <ul>
+                                                    <li>Presupuestos y Cotizaciones</li>
+                                                    <li>Contratación y Gestión de Personal</li>
+                                                    <li>Adquisición de Materiales</li>
+                                                    <li>Mantenimiento Posterior a la Construcción</li>
+                                                </ul>
+                                            </div>     
+                                            <div class="col-md-6">
+                                                <ul>
+                                                    <li>Sostenibilidad y Responsabilidad Ambiental</li>
+                                                    <li>Gestión de Proveedores y Subcontratistas</li>
+                                                    <li>Gestión de Permisos y Regulaciones</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +115,26 @@
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                     <div class="panel-body">
-                                        <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <ul>
+                                                    <li>Construcción Residencial</li>
+                                                    <li>Construcción Comercial</li>
+                                                    <li>Construcción Industrial</li>
+                                                    
+                                                </ul>
+                                            </div>
+                                                <ul>
+                                                    <li>Diseño y Arquitectura</li>
+                                                    <li>Remodelación y Renovación</li>
+                                                    <li>Construcción Sostenible</li>
+                                                    
+                                                </ul>
+                                            <div class="col-md-6">
+
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -122,23 +154,18 @@
             <div class="row">
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-skyline"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="25" data-speed="9000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="25" data-speed="4500" data-refresh-interval="50"></span>
                     <span class="colorlib-counter-label">Proyectos</span>
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-engineer"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="9000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="4500" data-refresh-interval="50"></span>
                     <span class="colorlib-counter-label">Empleados</span>
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-architect-with-helmet"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="5987" data-speed="5000" data-refresh-interval="50"></span>
-                    <span class="colorlib-counter-label">Constructor</span>
-                </div>
-                <div class="col-md-3 text-center animate-box">
-                    <span class="icon"><i class="flaticon-worker"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="3999" data-speed="5000" data-refresh-interval="50"></span>
-                    <span class="colorlib-counter-label">Partners</span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="2018" data-speed="4000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter-label">Desde 2018</span>
                 </div>
             </div>
         </div>

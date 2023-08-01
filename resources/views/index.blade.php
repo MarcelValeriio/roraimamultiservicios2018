@@ -13,8 +13,8 @@
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>An Inspiring Built Space</h1>
-                                       <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+                                       <h1>Servicio 1</h1>
+                                       <h2>Llamada a la accion -> <a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
                                         <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
@@ -29,8 +29,8 @@
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>Interior Design Studio</h1>
-                                        <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+                                       <h1>Servicio 2</h1>
+                                        <h2>Llamada a la accion -><a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
                                         <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
@@ -45,8 +45,8 @@
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>The National Gallery</h1>
-                                        <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+                                       <h1>Servicio 3</h1>
+                                        <h2>Llamada a la accion -><a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
                                         <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
@@ -115,7 +115,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>Construcción General</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Ofrecemos una amplia gama de servicios de construcción que cubren todas las etapas de los proyectos, desde el inicio hasta la finalización. </p>
                                 </div>
                             </div>
 
@@ -125,7 +125,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>Diseño de Pre-Construcción</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Antes de comenzar cualquier proyecto, nos enfocamos en la planificación y el diseño detallado para asegurar su éxito. </p>
                                 </div>
                             </div>
 
@@ -134,8 +134,8 @@
                                     <i class="flaticon-engineering"></i>
                                 </div>
                                 <div class="colorlib-text">
-                                    <h3>Building &amp; Modeling</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <h3>Construcción &amp; Diseño</h3>
+                                    <p> Nos destacamos por integrar servicios de construcción y diseño, ofreciendo soluciones completas y personalizadas para cada proyecto. </p>
                                 </div>
                             </div>
 
@@ -145,7 +145,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>Gestion de Construcción</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Nuestro equipo experto se encarga de coordinar y supervisar todos los aspectos de la construcción para cumplir con plazos y estándares de calidad. </p>
                                 </div>
                             </div>
                         </div>
@@ -154,19 +154,19 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-6">
-                            <a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-1.jpg)"></div>
                                 <div class="desc">
                                     <h3>Cosntrucción &amp; Diseño</h3>
                                 </div>
                             </a>
-                            <a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-2.jpg)"></div>
                                 <div class="desc">
                                     <h3>Remodelación de Hogares</h3>
                                 </div>
                             </a>
-                            <a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-3.jpg)"></div>
                                 <div class="desc">
                                     <h3>Gestion de Construcción</h3>
@@ -174,13 +174,13 @@
                             </a>
                         </div>
                         <div class="col-md-6 move-bottom">
-                            <a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-4.jpg)"></div>
                                 <div class="desc">
                                     <h3>Pintura &amp; Embaldosados</h3>
                                 </div>
                             </a>
-                            <a href="services.html" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-5.jpg)"></div>
                                 <div class="desc">
                                     <h3>Remodelación de Cocinas</h3>
@@ -201,23 +201,18 @@
             <div class="row">
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-skyline"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="25" data-speed="9000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="25" data-speed="4500" data-refresh-interval="50"></span>
                     <span class="colorlib-counter-label">Proyectos</span>
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-engineer"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="9000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="20" data-speed="4500" data-refresh-interval="50"></span>
                     <span class="colorlib-counter-label">Empleados</span>
                 </div>
                 <div class="col-md-3 text-center animate-box">
                     <span class="icon"><i class="flaticon-architect-with-helmet"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="5987" data-speed="5000" data-refresh-interval="50"></span>
-                    <span class="colorlib-counter-label">Constructor</span>
-                </div>
-                <div class="col-md-3 text-center animate-box">
-                    <span class="icon"><i class="flaticon-worker"></i></span>
-                    <span class="colorlib-counter js-counter" data-from="0" data-to="3999" data-speed="5000" data-refresh-interval="50"></span>
-                    <span class="colorlib-counter-label">Partners</span>
+                    <span class="colorlib-counter js-counter" data-from="0" data-to="2018" data-speed="5000" data-refresh-interval="50"></span>
+                    <span class="colorlib-counter-label">Desde 2018</span>
                 </div>
             </div>
         </div>

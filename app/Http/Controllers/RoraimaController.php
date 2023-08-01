@@ -5,7 +5,9 @@ namespace App\Http\Controllers;
 use App\Models\Contact;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use App\Models\Project;
 use App\Http\Requests\ContactRequest;
+use App\Http\Requests\ProjectRequest;
 
 class RoraimaController extends Controller
 {
@@ -35,11 +37,28 @@ class RoraimaController extends Controller
     }
 
 
-
+    public function details()
+    {
+        return view('details');
+    }
 
     public function contacto(ContactRequest $request)
     {
         Contact::create($request->all());
-        return redirect()->route('roraima.contact')->with('success', 'Presupuesto Enviado');
+        return redirect()->route('roraima.contact')->with('success', 'Presupuesto enviado satisfactoriamente, le estaremos contactando en breve.');
+    }
+
+    public function post()
+    {
+        $posts = Project::all();
+        //dd($posts);
+        return view('works', compact('posts'));
+    }
+
+    public function post2($id)
+    {
+        $project = Project::where('id', $id)->first();
+        //dd($project);
+        return view('details', compact('project'));
     }
 }

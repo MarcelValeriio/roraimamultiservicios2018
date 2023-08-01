@@ -753,6 +753,7 @@ body.offcanvas {
     .project .desc h3 {
       font-size: 16px;
       font-weight: 500;
+      color: white;
       text-transform: uppercase;
       letter-spacing: 1px;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
@@ -1254,5 +1255,4 @@ body.offcanvas {
     height: inherit !important;
     float: left;
     padding-top: 30px; } }
-
 

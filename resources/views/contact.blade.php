@@ -22,7 +22,7 @@
                             <i class="icon-globe-outline"></i>
                         </div>
                         <div class="colorlib-text">
-                            <p><a href="#">info@domain.com</a></p>
+                            <p><a href="mailto:Roraimamultiservicios2018@gmail.com" target="_blank">Roraimamultiservicios2018@gmail.com</a></p>
                         </div>
                     </div>
 
@@ -89,7 +89,9 @@
                 </div>
             </div>
         </div>
-        <div class="text-center">@include('components.messages')</div>
+        <div class="text-center">
+        @include('components.messages')
+    </div>
     </div>
 
     <!--<div id="map"></div>-->	

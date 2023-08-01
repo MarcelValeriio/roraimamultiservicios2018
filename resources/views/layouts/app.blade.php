@@ -3,9 +3,9 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Roraima</title>
+	<title>RORAIMA MULTISERVICIOS 2018 C.A</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="" />
+	<meta name="description" content="Construccion, Remodelacion, Arquitectura." />
 	<meta name="keywords" content="" />
 	<meta name="author" content="" />
 
@@ -48,20 +48,20 @@
 	<div id="colorlib-page">
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
-			<h1 id="colorlib-logo"><a href="index.html">Roraima</a></h1>
+			<h1 id="colorlib-logo"><a href="{{ route('roraima.index')}}">Roraima Multiservicios 2018 C.A</a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li class="colorlib-active"><a href="{{route ('roraima.index')}}">Home</a></li>
 					<li><a href="{{route ('roraima.works')}}">Proyectos</a></li>
 					<li><a href="{{route ('roraima.about')}}">Sobre Nosotros</a></li>
-					<li><a href="#">Services</a></li>
+					<li><a href="{{route ('roraima.services')}}">Services</a></li>
 					<li><a href="{{route ('roraima.contact')}}">Contacto</a></li>
 				</ul>
 			</nav>
 
 			<div class="colorlib-footer">
 				<p><small>&copy;
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made by <br> <a href="https://colorlib.com" target="_blank">Digital Studio MY</a> 
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made by <br> <a href="https://www.digitalstudiomy.com" target="_blank">Digital Studio MY</a> 
                 </p>
                 <ul>
 					<li><a href="https://api.whatsapp.com/send?phone=+5804141387830&text=Buenas,%20necesito%20una%20cotizaci%C3%B3n%20para%20una%20remodelaci%C3%B3n." target="_blank"><i class="icon-whatsapp"></i></a></li>
