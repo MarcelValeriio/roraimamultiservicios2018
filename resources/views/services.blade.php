@@ -20,7 +20,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>CONSTRUCCIÓN GENERAL</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Ofrecemos una amplia gama de servicios de construcción que cubren todas las etapas de los proyectos, desde el inicio hasta la finalización. </p>
                                 </div>
                             </div>
 
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>DISEÑO DE PRE-CONSTRUCCIÓN</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Antes de comenzar cualquier proyecto, nos enfocamos en la planificación y el diseño detallado para asegurar su éxito. </p>
                                 </div>
                             </div>
                         </div>
@@ -44,8 +44,8 @@
                                     <i class="flaticon-engineering"></i>
                                 </div>
                                 <div class="colorlib-text">
-                                    <h3>Building &amp; Modeling</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <h3>CONSTRUCCIÓN &amp; DISEÑO</h3>
+                                    <p>Nos destacamos por integrar servicios de construcción y diseño, ofreciendo soluciones completas y personalizadas para cada proyecto. </p>
                                 </div>
                             </div>
 
@@ -55,7 +55,7 @@
                                 </div>
                                 <div class="colorlib-text">
                                     <h3>GESTION DE CONSTRUCCIÓN</h3>
-                                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                                    <p>Nuestro equipo experto se encarga de coordinar y supervisar todos los aspectos de la construcción para cumplir con plazos y estándares de calidad. </p>
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                     <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-1.jpg')}})"></div>
                         <div class="desc">
-                            <h3>Design &amp; Build</h3>
+                            <h3>COSNTRUCCIÓN &amp; DISEÑO</h3>
                         </div>
                     </a>
                 </div>
@@ -75,7 +75,7 @@
                     <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-2.jpg')}})"></div>
                         <div class="desc">
-                            <h3>House Remodeling</h3>
+                            <h3>REMODELACIÓN DE HOGARES</h3>
                         </div>
                     </a>
                 </div>
@@ -83,7 +83,7 @@
                     <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-3.jpg')}})"></div>
                         <div class="desc">
-                            <h3>Construction Management</h3>
+                            <h3>GESTION DE CONSTRUCCIÓN</h3>
                         </div>
                     </a>
                 </div>
@@ -93,7 +93,7 @@
                     <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-4.jpg')}})"></div>
                         <div class="desc">
-                            <h3>Painting &amp; Tiling</h3>
+                            <h3>Pintura &amp; Embaldosados</h3>
                         </div>
                     </a>
                 </div>
@@ -101,7 +101,7 @@
                     <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-5.jpg')}})"></div>
                         <div class="desc">
-                            <h3>Kitchen Remodeling</h3>
+                            <h3>Remodelación de Cocinas</h3>
                         </div>
                     </a>
                 </div>
