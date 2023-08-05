@@ -15,8 +15,8 @@ use App\Http\Controllers\RoraimaController;
 */
 
 Route::view('/roraima', [RoraimaController::class, 'index'])->name('roraima.index');
-Route::get('/roraima/Peoyectos', [RoraimaController::class, 'post'])->name('roraima.works');
-Route::get('/roraima/Detalles-/{id}', [RoraimaController::class, 'post2'])->name('roraima.details');
+Route::get('/roraima/Proyectos', [RoraimaController::class, 'projects'])->name('roraima.works');
+Route::get('/roraima/Detalles-/{id}', [RoraimaController::class, 'project'])->name('roraima.details');
 Route::view('/roraima/Sobre-Nosotros', [RoraimaController::class, 'about'])->name('roraima.about');
 Route::get('/roraima/Contactanos', [RoraimaController::class, 'contact'])->name('roraima.contact');
 Route::get('/roraima/Servicios', [RoraimaController::class, 'services'])->name('roraima.services');

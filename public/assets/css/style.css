@@ -1113,7 +1113,8 @@ body.offcanvas {
     background: #f0f0f0; }
 
 #message {
-  height: 130px; }
+  height: 130px;
+  resize: none; }
 
 .colorlib-nav-toggle {
   cursor: pointer;

@@ -64,7 +64,7 @@
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                    <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-1.jpg')}})"></div>
                         <div class="desc">
                             <h3>COSNTRUCCIÓN &amp; DISEÑO</h3>
@@ -72,7 +72,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                    <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-2.jpg')}})"></div>
                         <div class="desc">
                             <h3>REMODELACIÓN DE HOGARES</h3>
@@ -80,7 +80,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                    <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-3.jpg')}})"></div>
                         <div class="desc">
                             <h3>GESTION DE CONSTRUCCIÓN</h3>
@@ -90,7 +90,7 @@
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <a href="#" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                    <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-4.jpg')}})"></div>
                         <div class="desc">
                             <h3>Pintura &amp; Embaldosados</h3>
@@ -98,7 +98,7 @@
                     </a>
                 </div>
                 <div class="col-md-4">
-                    <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                    <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                         <div class="services-img" style="background-image: url({{asset('assets/images/services-5.jpg')}})"></div>
                         <div class="desc">
                             <h3>Remodelación de Cocinas</h3>

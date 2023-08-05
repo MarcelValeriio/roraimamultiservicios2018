@@ -5,15 +5,18 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class PostImage extends Model
+class Image extends Model
 {
     use HasFactory;
     protected $fillable = [
         'name',
+        'project_id'
 
     ];
 
+
     public function project()
     {
+        return $this->belongsTo(Project::class);
     }
 }

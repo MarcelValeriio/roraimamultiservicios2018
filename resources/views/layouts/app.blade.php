@@ -48,7 +48,7 @@
 	<div id="colorlib-page">
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
-			<h1 id="colorlib-logo"><a href="{{ route('roraima.index')}}">Roraima Multiservicios 2018 C.A</a></h1>
+			<h1 class="text-center" id="colorlib-logo"><a href="{{ route('roraima.index')}}">Roraima Multiservicios <br> 2018 C.A</a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li class="colorlib-active"><a href="{{route ('roraima.index')}}">Home</a></li>

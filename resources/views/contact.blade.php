@@ -74,7 +74,8 @@
                                     @enderror
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" cols="30" rows="7" class="form-control" placeholder="Mensaje" name="mensaje"></textarea>
+                                    <textarea id="message" cols="30" rows="7" class="form-control" placeholder="Mensaje" name="mensaje" style="
+                                    resize: none;"></textarea>
                                     @error('mensaje')
                                     <p style="color: red;">{{ $message }}</p>
                                     @enderror

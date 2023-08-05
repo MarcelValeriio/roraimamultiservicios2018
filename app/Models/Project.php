@@ -11,10 +11,11 @@ class Project extends Model
     protected $fillable = [
         'title',
         'description',
-        'images',
+
     ];
 
     public function images()
     {
+        return $this->hasMany(Image::class);
     }
 }

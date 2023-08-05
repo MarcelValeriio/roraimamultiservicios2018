@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 use App\Models\Project;
 use App\Http\Requests\ContactRequest;
 use App\Http\Requests\ProjectRequest;
+use App\Models\Image;
 
 class RoraimaController extends Controller
 {
@@ -48,17 +49,20 @@ class RoraimaController extends Controller
         return redirect()->route('roraima.contact')->with('success', 'Presupuesto enviado satisfactoriamente, le estaremos contactando en breve.');
     }
 
-    public function post()
+    public function projects()
     {
-        $posts = Project::all();
-        //dd($posts);
-        return view('works', compact('posts'));
+        $projects = Project::all();
+        $images = Image::with('project')->get();
+
+
+        //dd($images);
+        return view('works', compact('projects', 'images'));
     }
 
-    public function post2($id)
+    public function project($id)
     {
+
         $project = Project::where('id', $id)->first();
-        //dd($project);
         return view('details', compact('project'));
     }
 }

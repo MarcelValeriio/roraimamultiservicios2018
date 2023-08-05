@@ -20,19 +20,19 @@
                     </div>
                     <div class="row padding">
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps active">
+                            <a rel=”nofollow” class="steps active">
                                 <p class="icon"><span><i class="icon-check"></i></span></p>
                                 <h3>Trabajamos <br>Con amor</h3>
                             </a>
                         </div>
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps">
+                            <a rel=”nofollow” class="steps">
                                 <p class="icon"><span><i class="icon-check"></i></span></p>
                                 <h3>Honestidad &<br>Confianza</h3>
                             </a>
                         </div>
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps">
+                            <a rel=”nofollow” class="steps">
                                 <p class="icon"><span><i class="icon-check"></i></span></p>
                                 <h3>Mejorando <br>Siempre</h3>
                             </a>

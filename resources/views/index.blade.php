@@ -6,48 +6,48 @@
     <aside id="colorlib-hero" class="js-fullheight">
         <div class="flexslider js-fullheight">
             <ul class="slides">
-               <li style="background-image: url(assets/images/img_bg_1.jpg);">
+               <li style="background-image: url({{ asset('assets/images/img_bg_5.jpg') }});">
                    <div class="overlay"></div>
                    <div class="container-fluid">
                        <div class="row">
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>Servicio 1</h1>
-                                       <h2>Llamada a la accion -> <a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
-                                        <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
+                                       <h1>Servicio de Impermeabilización</h1>
+                                       <h2>Con nuestros servicios de impermeabilización, puedes estar seguro/a de que tu hogar estará resguardado, incluso en las peores tormentas.</h2>
+                                        <p><a href="https://api.whatsapp.com/send?phone=+5804141387830&text=Buenas,%20necesito%20una%20cotizaci%C3%B3n%20para%20una%20remodelaci%C3%B3n." target="_blank" class="btn btn-primary btn-learn">Contratar <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
                            </div>
                        </div>
                    </div>
                </li>
-               <li style="background-image: url(assets/images/img_bg_2.jpg);">
+               <li style="background-image: url({{ asset('assets/images/img_bg_6.jpg') }});">
                    <div class="overlay"></div>
                    <div class="container-fluid">
                        <div class="row">
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>Servicio 2</h1>
-                                        <h2>Llamada a la accion -><a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
-                                        <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
+                                       <h1>Servicio de Pintura</h1>
+                                        <h2>Confía en nuestra experiencia, calidad y atención al detalle para hacer de tu hogar un lugar lleno de armonía y belleza. ¡Renueva tus espacios con nuestro servicio de pintura hoy mismo!</h2>
+                                        <p><a href="https://api.whatsapp.com/send?phone=+5804141387830&text=Buenas,%20necesito%20una%20cotizaci%C3%B3n%20para%20una%20remodelaci%C3%B3n." target="_blank" class="btn btn-primary btn-learn">Contratar <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
                            </div>
                        </div>
                    </div>
                </li>
-               <li style="background-image: url(assets/images/img_bg_3.jpg);">
+               <li style="background-image: url({{ asset('assets/images/img_bg_4.jpg') }});">
                    <div class="overlay"></div>
                    <div class="container-fluid">
                        <div class="row">
                            <div class="col-md-6 col-md-offset-3 col-md-push-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                <div class="slider-text-inner">
                                    <div class="desc">
-                                       <h1>Servicio 3</h1>
-                                        <h2>Llamada a la accion -><a href="https://colorlib.com/" target="_blank">Pagina Aqui</a></h2>
-                                        <p><a class="btn btn-primary btn-learn">View Project <i class="icon-arrow-right3"></i></a></p>
+                                       <h1>Servicio de Obras Civiles</h1>
+                                        <h2>Nosotros llevamos tus proyectos a otro nivel. Nuestra vasta experiencia en obras civiles garantiza resultados sólidos y duraderos. Confía en nosotros para construir el camino hacia el progreso. ¡Juntos, hagamos realidad tu visión!</h2>
+                                        <p><a class="btn btn-primary btn-learn">Contratar <i class="icon-arrow-right3"></i></a></p>
                                     </div>
                                </div>
                            </div>
@@ -74,19 +74,19 @@
                     </div>
                     <div class="row padding">
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps active">
-                                <p class="icon"><span><i class="icon-check"></i></span></p>
+                            <a rel=”nofollow” class="steps active">
+                                <p class="icon steps active"><span><i class="icon-check"></i></span></p>
                                 <h3>Trabajamos <br>Con Amor</h3>
                             </a>
                         </div>
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps">
+                            <a rel=”nofollow” class="steps">
                                 <p class="icon"><span><i class="icon-check"></i></span></p>
                                 <h3>Honestos y <br>Confiables</h3>
                             </a>
                         </div>
                         <div class="col-md-4 no-gutters animate-box" data-animate-effect="fadeInLeft">
-                            <a href="#" class="steps">
+                            <a rel=”nofollow” class="steps">
                                 <p class="icon"><span><i class="icon-check"></i></span></p>
                                 <h3>Siempre <br>Mejorando</h3>
                             </a>
@@ -154,19 +154,19 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-6">
-                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-1.jpg)"></div>
                                 <div class="desc">
                                     <h3>Cosntrucción &amp; Diseño</h3>
                                 </div>
                             </a>
-                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-2.jpg)"></div>
                                 <div class="desc">
                                     <h3>Remodelación de Hogares</h3>
                                 </div>
                             </a>
-                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-3.jpg)"></div>
                                 <div class="desc">
                                     <h3>Gestion de Construcción</h3>
@@ -174,13 +174,13 @@
                             </a>
                         </div>
                         <div class="col-md-6 move-bottom">
-                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-4.jpg)"></div>
                                 <div class="desc">
                                     <h3>Pintura &amp; Embaldosados</h3>
                                 </div>
                             </a>
-                            <a href="" class="services-wrap animate-box" data-animate-effect="fadeInRight">
+                            <a rel=”nofollow” class="services-wrap animate-box" data-animate-effect="fadeInRight">
                                 <div class="services-img" style="background-image: url(assets/images/services-5.jpg)"></div>
                                 <div class="desc">
                                     <h3>Remodelación de Cocinas</h3>

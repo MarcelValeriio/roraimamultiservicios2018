@@ -11,18 +11,19 @@
                 </div>
             </div>
             <div class="row row-bottom-padded-md">
-            @forelse ($posts as $post)
+            @forelse ($projects as $project)
             
                 <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                    <div class="project" style="background-image: url({{ asset('assets/images/'.$post->images) }})">
+                    <div class="project" style="background-image: url({{ asset('assets/images/'.$project->images[0]->name)}})">
                         <div class="desc">
                             <div class="con">
-                                <h3><a href="{{route('roraima.details', $post->id)}}"> {{$post->title}}</a></h3>
-                                <span>{{$post->description}}</span>
+                                <h3><a href="{{route('roraima.details', $project->id)}}"> {{$project->name}}</a></h3>
+                                <span>{{$project->description}}</span>
                                 <p class="icon">
                                     <span><a href="#"><i class="icon-share3"></i></a></span>
                                     <span><a href="#"><i class="icon-eye"></i> 100</a></span>
                                     <span><a href="#"><i class="icon-heart"></i> 49</a></span>
+                   
                                 </p>
                             </div>
                         </div>
