@@ -56,7 +56,7 @@ class RoraimaController extends Controller
 
 
         //dd($images);
-        return view('works', compact('projects', 'images'));
+        return view('works', compact('projects'));
     }
 
     public function project($id)

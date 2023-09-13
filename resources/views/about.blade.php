@@ -174,5 +174,4 @@
    @include('layouts._partials.presupuesta')
 </div>
 </div>
-
 @endsection

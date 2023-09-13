@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
 <div id="colorlib-main">
     <div class="colorlib-work">
@@ -12,7 +11,6 @@
             </div>
             <div class="row row-bottom-padded-md">
             @forelse ($projects as $project)
-            
                 <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                     <div class="project" style="background-image: url({{ asset('assets/images/'.$project->images[0]->name)}})">
                         <div class="desc">
@@ -23,21 +21,17 @@
                                     <span><a href="#"><i class="icon-share3"></i></a></span>
                                     <span><a href="#"><i class="icon-eye"></i> 100</a></span>
                                     <span><a href="#"><i class="icon-heart"></i> 49</a></span>
-                   
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>  
-          
                 @empty
                 <div class="animate-box" data-animate-effect="fadeInLeft">
                 <h3>No Hay Proyectos.</h3>
                 </div>  
                 @endforelse            
             </div>  
-
-
             <div class="row">
                 <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                     <ul class="pagination">
